@@ -1,0 +1,92 @@
+[
+    {
+      "objectId": "ZRgPP9dBMm",
+      "Year": 2020,
+      "Make": "Audi",
+      "Model": "Q3",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "ElhqsRZDnP",
+      "Year": 2020,
+      "Make": "Cadillac",
+      "Model": "Escalade ESV",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "cptB1C1NSL",
+      "Year": 2020,
+      "Make": "Chevrolet",
+      "Model": "Malibu",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "LUzyWMYJpW",
+      "Year": 2020,
+      "Make": "Chevrolet",
+      "Model": "Corvette",
+      "Category": "Coupe, Convertible",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "rDkHakOBKP",
+      "Year": 2020,
+      "Make": "Acura",
+      "Model": "RLX",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "7G1VT2pSNO",
+      "Year": 2020,
+      "Make": "BMW",
+      "Model": "3 Series",
+      "Category": "Sedan",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "1JARpJ2AUB",
+      "Year": 2020,
+      "Make": "Chevrolet",
+      "Model": "Silverado 2500 HD Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "4q7L9FAU2S",
+      "Year": 2020,
+      "Make": "Chrysler",
+      "Model": "Pacifica",
+      "Category": "Van/Minivan",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "96llWfTOAe",
+      "Year": 2020,
+      "Make": "BMW",
+      "Model": "X3",
+      "Category": "SUV",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    },
+    {
+      "objectId": "jpOC5zs3jx",
+      "Year": 2020,
+      "Make": "Chevrolet",
+      "Model": "Colorado Crew Cab",
+      "Category": "Pickup",
+      "createdAt": "2020-01-27T20:44:17.665Z",
+      "updatedAt": "2020-01-27T20:44:17.665Z"
+    }
+  ]
