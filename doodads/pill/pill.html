@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<template rounded="rounded" bg="bg-gray-500" text="text-white" border="border-gray-500">
+  <section>
+    <link href="/assets/css/styles.css" rel="preload" as="style" />
+    <link href="/assets/css/styles.css" rel="stylesheet" />
+    <ul  class="flex flex-wrap justify-start">
+      <li bind="${bind}">
+        <a class="inline-block  border border-blue-500 ${rounded} py-1 px-3 bg-blue-500 text-white" href="#"><span onclick="Doo.DAO.remove('${bind}', '{{ i() }}')" class="doo-remove inline-block bg-white  rounded-full mr-2  p-1 text-red-500"></span>${1}</a>
+      </li>
+    </ul>
+    <style>
+      .doo-remove {
+        font-size: 0.25rem;
+        vertical-align: middle;
+        width: 2.7rem;
+        text-align: center;
+      }
+      .doo-remove::after {
+        content: "\274C";
+      }
+      li {
+        white-space: nowrap;
+        margin: 0.5rem 0.5rem 0 0;
+      }
+
+      @media (max-width: 479px) {
+        li {
+          margin-bottom: 0.5rem;
+        }
+        li:last-child {
+          margin-bottom: 0;
+        }
+      }  
+    </style>
+</section>
+</template>
+

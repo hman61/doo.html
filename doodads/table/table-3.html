@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<template>
+  <section class="${class}">
+    <link href="/assets/css/styles.css" rel="preload" as="style" />
+    <link href="/assets/css/styles.css" rel="stylesheet" />
+    <div style="width:80%">
+      <table width="100%">  
+        <thead>
+          <tr>
+            <th data-src="${data-map-label}" bind="head" class="capitalize border py-1 px-3">{{ 0 }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr  bind="${bind}">
+              <td class="border  py-1 px-3 ">${1}</td>
+              <td class="border  py-1 px-3 ">${2}</td>
+              <td class="border  py-1 px-3 ">${3}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+  </section>
+</template>
