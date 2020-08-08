@@ -1,5 +1,4 @@
-# doo.html.min
+# doo.html.min - dist
 # Doocumentation
-https://github.com/hman61/doodads/wiki/Documentation/_edit
-### distribution
-Web Components on Steroids
+https://github.com/hman61/doodads/wiki/Documentation/
+### Web Components on Steroids
