@@ -12,7 +12,7 @@
       "objectId": "ElhqsRZDnP",
       "Year": 2020,
       "Make": "Cadillac",
-      "Model": "Escalade ESV",
+      "Model": "Escalade",
       "Category": "SUV",
       "createdAt": "2020-01-27T20:44:17.665Z",
       "updatedAt": "2020-01-27T20:44:17.665Z"
@@ -31,7 +31,7 @@
       "Year": 2020,
       "Make": "Chevrolet",
       "Model": "Corvette",
-      "Category": "Coupe, Convertible",
+      "Category": "Coupe",
       "createdAt": "2020-01-27T20:44:17.665Z",
       "updatedAt": "2020-01-27T20:44:17.665Z"
     },
@@ -57,7 +57,7 @@
       "objectId": "1JARpJ2AUB",
       "Year": 2020,
       "Make": "Chevrolet",
-      "Model": "Silverado 2500 HD Crew Cab",
+      "Model": "Silverado",
       "Category": "Pickup",
       "createdAt": "2020-01-27T20:44:17.665Z",
       "updatedAt": "2020-01-27T20:44:17.665Z"
@@ -67,7 +67,7 @@
       "Year": 2020,
       "Make": "Chrysler",
       "Model": "Pacifica",
-      "Category": "Van/Minivan",
+      "Category": "Minivan",
       "createdAt": "2020-01-27T20:44:17.665Z",
       "updatedAt": "2020-01-27T20:44:17.665Z"
     },
@@ -84,7 +84,7 @@
       "objectId": "jpOC5zs3jx",
       "Year": 2020,
       "Make": "Chevrolet",
-      "Model": "Colorado Crew Cab",
+      "Model": "Colorado",
       "Category": "Pickup",
       "createdAt": "2020-01-27T20:44:17.665Z",
       "updatedAt": "2020-01-27T20:44:17.665Z"
