@@ -1,0 +1,25 @@
+{
+  "name": "doo-html",
+  "version": "0.20.4",
+  "description": "WebComponent Rendering Framework",
+  "main": "./dist/doo.html.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hman61/doo.html.git"
+  },
+  "keywords": [
+    "WebComponents",
+    "shadowdom",
+    "js",
+    "framework"
+  ],
+  "author": "Henrik Javen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hman61/doo.html/issues"
+  },
+  "homepage": "https://github.com/hman61/doo.html#readme"
+}
