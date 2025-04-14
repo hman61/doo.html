@@ -1,0 +1,1 @@
+import Doo from './dist/doo.html.min.js'
